@@ -3,8 +3,8 @@ import numpy
 import re
 import datetime
 
+# code won't work without excel file now, need to update it to work with repository TSVs
 # read excel file, create dataframes, and set index for positions
-# code won't work without excel file now, need to update it to work with repository
 top100names = pandas.read_excel('Top100.xlsx', 'Data')
 positions = pandas.read_excel('Top100.xlsx', 'Positions', index_col='Title')
 
