@@ -71,3 +71,8 @@ The number of positions included in this list vary due to decennial redistrictin
 For each year in each position, the name, race/ethnicity, and gender of every elected official is recorded. The start year of a particular elected official in a particular position is determined by the year the particular election for that position was won. The end year of a particular elected official in a particular position is determined by the year that official won an election in another position, lost an election in that same position, was termed out of that position, was removed from that position, retired, resigned, or died.
 
 In rare instances where elected officials vacate their positions prior to a regularly scheduled election for that position and the governing body overseeing that position does not schedule a special election to fill that vacancy gaps in elected representation for that specific position may be observed. 
+
+Scripts Used to Process Collected Data
+--------------------------------------
+Top100toCSV.py and Top100toMergedExcel.py are python scripts used to manipulate collected data. 
+
