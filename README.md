@@ -26,43 +26,43 @@ Positions that are included in this list are based on several criterion includin
     
 The positions include the following jurisdictions which are wholly or significantly enclosed within LA County.
 
-LA City Executives (i.e., Mayor, City Council, Controller, and City Attorney)
+    LA City Executives (i.e., Mayor, City Council, Controller, and City Attorney)
 
-LA County Executives (i.e., Board of Supervisors, Assessor, Sheriff, and District Attorney)
+    LA County Executives (i.e., Board of Supervisors, Assessor, Sheriff, and District Attorney)
 
-U.S. House of Representatives (districts representing LA County)
+    U.S. House of Representatives (districts representing LA County)
 
-CA State Senate (districts representing LA County)
+    CA State Senate (districts representing LA County)
 
-CA State Assembly (districts representing LA County)
+    CA State Assembly (districts representing LA County)
 
-CA State Board of Equalization (districts representing LA County)
+    CA State Board of Equalization (districts representing LA County)
 
-LAUSD Board of Education
+    LAUSD Board of Education
 
-LACCD Board of Trustees
+    LACCD Board of Trustees
 
-Mayor of Long Beach
+    Mayor of Long Beach
 
 For the purposes of reporting, positions are ranked based on the above criteria. The relative rankings are as follow:
 
-Mayor of LA
+    Mayor of LA
 
-LA County Board of Supervisors
+    LA County Board of Supervisors
 
-LA County DA, County Sheriff, & LA City Attorney
+    LA County DA, County Sheriff, & LA City Attorney
 
-U.S. House of Representatives
+    U.S. House of Representatives
 
-State Senate, Board of Equalization
+    State Senate, Board of Equalization
 
-LA City Controller & County Assessor
+    LA City Controller & County Assessor
 
-State Assembly & LA City Council
+    State Assembly & LA City Council
 
-LAUSD School Board
+    LAUSD School Board
 
-LACCD Board of Trustees & Mayor of Long Beach
+    LACCD Board of Trustees & Mayor of Long Beach
 
 Data for this project starts in 1959, five whole years prior to the Watts Riots, a significant milepost in the role of demography in the history of modern Los Angeles. 
 
