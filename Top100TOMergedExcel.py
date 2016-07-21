@@ -4,6 +4,8 @@ import re
 import datetime
 import xlsxwriter
 
+# code won't work without excel file now, need to update it to work with repository TSVs
+# xls writer output is borked initially; let excel fix it and it works
 
 # read excel file, create dataframes, and set index for positions
 top100names = pandas.read_excel('Top100.xlsx', 'Data')
