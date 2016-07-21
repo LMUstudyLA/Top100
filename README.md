@@ -20,9 +20,9 @@ Positions that are included in this list are based on several criterion includin
   
   Prestige of the position
   
-    Career path
+  Career path
   
-    Opinion of leaders
+  Opinion of leaders
     
 The positions include the following jurisdictions which are wholly or significantly enclosed within LA County.
 
