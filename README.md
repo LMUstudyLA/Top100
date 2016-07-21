@@ -15,33 +15,53 @@ In LA County alone, this results in over 2000 elected positions.
 Positions that are included in this list are based on several criterion including:
 
   Constituent size
+  
   Budget size
+  
   Prestige of the position
+  
     Career path
+  
     Opinion of leaders
     
 The positions include the following jurisdictions which are wholly or significantly enclosed within LA County.
 
 LA City Executives (i.e., Mayor, City Council, Controller, and City Attorney)
+
 LA County Executives (i.e., Board of Supervisors, Assessor, Sheriff, and District Attorney)
+
 U.S. House of Representatives (districts representing LA County)
+
 CA State Senate (districts representing LA County)
+
 CA State Assembly (districts representing LA County)
+
 CA State Board of Equalization (districts representing LA County)
+
 LAUSD Board of Education
+
 LACCD Board of Trustees
+
 Mayor of Long Beach
 
 For the purposes of reporting, positions are ranked based on the above criteria. The relative rankings are as follow:
 
 Mayor of LA
+
 LA County Board of Supervisors
+
 LA County DA, County Sheriff, & LA City Attorney
+
 U.S. House of Representatives
+
 State Senate, Board of Equalization
+
 LA City Controller & County Assessor
+
 State Assembly & LA City Council
+
 LAUSD School Board
+
 LACCD Board of Trustees & Mayor of Long Beach
 
 Data for this project starts in 1959, five whole years prior to the Watts Riots, a significant milepost in the role of demography in the history of modern Los Angeles. 
